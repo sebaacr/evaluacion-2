@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Asesoría Contable y Tributaria",
+    "categoria": "Contabilidad",
+    "descripcion": "Gestión contable integral, declaraciones de impuestos F29/F22 y balances para pymes de Ñuble.",
+    "precio": 45000,
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "nombre": "Desarrollo de Páginas Web",
+    "categoria": "Tecnología",
+    "descripcion": "Diseño y desarrollo de sitios web corporativos y tiendas online optimizadas para móviles.",
+    "precio": 180000,
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "nombre": "Diseño Arquitectónico y Planos",
+    "categoria": "Construcción",
+    "descripcion": "Elaboración de planos, regularizaciones ante la DOM y proyectos de remodelación residencial.",
+    "precio": 250000,
+    "disponible": false
+  },
+  {
+    "id": 4,
+    "nombre": "Mantenimiento Eléctrico Domiciliario",
+    "categoria": "Servicios",
+    "descripcion": "Reparaciones eléctricas, certificación SEC e instalación de tableros de energía residenciales.",
+    "precio": 35000,
+    "disponible": true
+  },
+  {
+    "id": 5,
+    "nombre": "Consultoría Jurídica y Contratos",
+    "categoria": "Legal",
+    "descripcion": "Redacción de contratos, asesoría legal laboral y representación civil para pymes y particulares.",
+    "precio": 60000,
+    "disponible": true
+  },
+  {
+    "id": 6,
+    "nombre": "Fotografía y Marketing Digital",
+    "categoria": "Marketing",
+    "descripcion": "Sesiones fotográficas de productos, creación de contenido audiovisual y gestión de redes sociales.",
+    "precio": 85000,
+    "disponible": false
+  }
+]
